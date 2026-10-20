@@ -4,7 +4,7 @@
 
 ## Vad du ska göra idag
 
-Du färdigställer ditt projekt och förbereder redovisningen: 8 minuter muntligt och 2 minuter frågor, där du visar din publicerade sida live.
+Du färdigställer din Kafé Kardemumma-sida och förbereder redovisningen: 8 minuter muntligt och 2 minuter frågor, där du visar din publicerade sida live.
 
 ## Bakgrund
 
@@ -24,7 +24,7 @@ Fastnar du: skriv ner exakt var och vad du försökt, och ta det först i nästa
 
 ### Steg 1. Läs kravlistan
 
-Öppna `KRAV.md`. Där står vad ett färdigt projekt ska uppfylla. Gå punkt för punkt i ditt `mitt-projekt`.
+Öppna `KRAV.md`. Där står vad ett färdigt projekt ska uppfylla. Gå punkt för punkt på din Kafé Kardemumma-sida.
 
 ### Steg 2. Åtgärda det som saknas
 
@@ -32,7 +32,7 @@ Rangordna vad som saknas. Börja med det som är viktigast för användaren. Ski
 
 ### Steg 3. Städa repot
 
-Ta bort oanvända filer, kontrollera att `README.md` är komplett (beskrivning, live-länk, vilka tekniker, vad du ändrade från Figma-designen och varför).
+Ta bort oanvända filer, kontrollera att `README.md` är komplett (beskrivning, live-länk, vilka tekniker, vad du lärt dig).
 
 ### Steg 4. Sista commit och push
 
@@ -40,7 +40,7 @@ Gör en sista commit med tydligt meddelande. Push. Öppna live-länken i ett pri
 
 ### Steg 5. Fyll i redovisningsmallen
 
-Öppna `REDOVISNING.md` och skriv stödord för varje del: design, kod, utmaning, lärdom.
+Öppna `REDOVISNING.md` och skriv stödord för varje del: kod, utmaning, lärdom.
 
 ### Steg 6. Öva en gång
 
@@ -50,55 +50,19 @@ Gör en sista commit med tydligt meddelande. Push. Öppna live-länken i ett pri
 
 Visa den publicerade sidan live på sin riktiga adress, i minst två bredder, två interaktioner, ditt variabelsystem och din commit-historik.
 
-## AI-spåret (nivå 3: Styr och ansvara)
-
-**Ditt AI-arbetssätt** (cirka 25 minuter, efter att du gjort din egen lösning)
-
-Fri användning, full loggning. Du bär ansvaret för allt du lämnar in. Det här är det en arbetsgivare vill höra: inte att du använt AI, utan hur du styr den och var du inte litar på den.
-
-Regler: egen lösning först, du ska kunna förklara varje rad, och du loggar i `docs/ai-logg.md` i `mitt-projekt`. Reglerna finns i `AI-REGLER.md` i `mitt-projekt`.
-
-1. Läs igenom hela din ai-logg från modul 4.
-2. Be AI hitta mönster i loggen med prompten nedan.
-3. Skriv ett avsnitt Så använde jag AI i projektets README: vad hjälpte, vad var fel, vad skulle du aldrig låta AI avgöra.
-4. Förbered en minut om detta i redovisningen.
-
-Prompt att utgå från:
-
-```
-Här är min AI-logg. I vilka typer av
-uppgifter hade AI rätt, och i vilka hade
-den fel? Ställ tre kritiska frågor om
-mitt arbetssätt.
-
-[klistra in din ai-logg här]
-```
-
-**Kontrollera med:**
-
-- Stämmer mönstren med din egen känsla?
-- Kan du ge ett konkret exempel på varje punkt?
-
-**I ditt projekt:** Lägg avsnittet Så använde jag AI i ditt projekts README.
-
 ## Kontrollista: så vet du att du är klar
 
-- [ ] Projektet uppfyller kraven i `KRAV.md`.
+- [ ] Sidan uppfyller kraven i `KRAV.md`.
 - [ ] README.md är komplett.
 - [ ] Live-länken fungerar i ett privat webbläsarfönster.
 - [ ] Du har övat redovisningen med klocka.
 - [ ] Du har skickat in slutlig länk i Forms.
-- [ ] Du har gjort AI-uppgiften och skrivit en post i `docs/ai-logg.md`.
 
 ## Tips om du fastnar
 
 - Hellre två genomarbetade skärmar än sex halvfärdiga.
 - Något som inte funkar vid redovisningen? Visa det ändå och förklara vad du ska göra. Det är ett tecken på mognad, inte svaghet.
 - Skriv inte hela redovisningen. Stödord räcker.
-
-## Ditt projekt: Dagens steg i `mitt-projekt`
-
-Efter övningen här jobbar du vidare i ditt eget projekt (din design från modul 3). Dagens steg står i `PROJEKTSTEG.md` i ditt repo `mitt-projekt`, under **Dag 12**. Det är där ditt riktiga arbete växer. Övningen här är träningsbanan.
 
 ## Inlämning
 
@@ -107,10 +71,9 @@ Efter övningen här jobbar du vidare i ditt eget projekt (din design från modu
 I formuläret fyller du i:
 
 1. Länk till din fork av det här repot.
-2. Länk till ditt `mitt-projekt`.
-3. Reflektion: Vad är du mest stolt över i projektet, och vad skulle du göra annorlunda om du började om?
+2. Reflektion: Vad är du mest stolt över på sidan, och vad skulle du göra annorlunda om du började om?
 
 ## Vill du mer? (frivilligt)
 
 - Skriv ett inlägg till LinkedIn om vad du byggde.
-- Lägg till projektet på din portföljsida.
+- Lägg till sidan på din portföljsida.

@@ -1,4 +1,4 @@
-# Krav på det färdiga projektet
+# Krav på den färdiga sidan
 
 ## HTML
 - [ ] Semantisk markup (header, nav, main, section/article, footer)
@@ -9,7 +9,7 @@
 
 ## CSS
 - [ ] Layouten byggd med Flexbox och/eller Grid
-- [ ] CSS-variabelsystem som speglar dina tokens
+- [ ] CSS-variabelsystem i `css/variables.css`
 - [ ] Filerna uppdelade och konsekvent namngivna
 - [ ] `box-sizing: border-box` globalt
 
@@ -18,14 +18,9 @@
 - [ ] Byggd mobile first
 - [ ] Testad i DevTools enhetsläge
 
-## AI och ansvar
-- [ ] `docs/ai-logg.md` har poster från alla dagar
-- [ ] README innehåller avsnittet *Så använde jag AI*
-- [ ] Jag kan förklara varje rad i koden jag lämnar in
-
-## Trohet mot designen
-- [ ] Typografi, färger och spacing matchar din Figma-design
-- [ ] Kontrasten håller de värden du dokumenterade i modul 3
+## Utseende
+- [ ] Typografi, färger och spacing är konsekventa
+- [ ] Kontrasten uppfyller kraven från dag 4
 - [ ] Hover och fokus finns implementerat
 
 ## Versionshantering

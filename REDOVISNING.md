@@ -4,8 +4,8 @@ Fyll i stödord. Skriv inte hela meningar.
 
 ## 1. Vem och vad (1 min)
 - Mitt namn:
-- Mitt designcase:
-- Vem designen är till för:
+- Sidan jag byggt: Kafé Kardemumma
+- Vad jag är mest nöjd med:
 
 ## 2. Live-demo av sidan (3 min)
 - Live-adress (öppnas i webbläsaren, inte i VS Code):
@@ -17,11 +17,10 @@ Fyll i stödord. Skriv inte hela meningar.
 - Min filstruktur:
 - Min commit-historik (visa på GitHub, *Commits*):
 
-## 4. Reflektion och AI (2 min)
-- Vad var svårast att få att stämma mot Figma-designen:
+## 4. Reflektion (2 min)
+- Vad var svårast under modulen:
 - Något jag fastnade på och hur jag löste det:
 - Vad jag skulle göra annorlunda:
-- AI (1 min): var hjälpte den, var hade den fel, vad skulle jag aldrig låta AI avgöra:
 
 ## Checklista före
 - [ ] Live-länken fungerar i ett privat fönster
